@@ -53,6 +53,24 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "cb7e",
+      "title": "This is coding",
+      "author_name": "Amdadul",
+      "publish_date": "2025-02-07",
+      "total_likes": "40020",
+      "blog_image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+      "description": "Coding is Love"
+    },
+    {
+      "id": "6f77",
+      "title": "Coding",
+      "author_name": "Amdadul",
+      "publish_date": "2025-02-07",
+      "total_likes": "7461",
+      "blog_image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+      "description": "Hello From coding"
     }
   ]
 }
