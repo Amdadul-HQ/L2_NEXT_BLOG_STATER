@@ -1,6 +1,6 @@
 "use server"
 
-export const createBlog =async (data) => {
+export const createBlog =async (data:FormData) => {
     const res = fetch("http://localhost:5000/blogs",{
         method:"POST",
         headers:{
